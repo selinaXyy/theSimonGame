@@ -1,1 +1,1 @@
-# theSimonGame
+"Simon's Sequence Web Challenge" is a memory-testing web game based on the classic Simon game. Using JavaScript and jQuery, this project showcases dynamic patterns and error detection, engaging players in a test of memory and attention. Experience the power of JavaScript Math functions and higher-order functions in a game that challenges you to match increasingly complex sequences. Perfect for quick and fun mental exercise!
